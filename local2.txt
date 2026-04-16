@@ -1,0 +1,8 @@
+# Local Repository File 2
+
+This is the second local file added to the ABAP repository.
+
+Created as part of learning Git workflow with local repositories.
+
+Date Added: 16/04/26
+Purpose: Demonstrating local file management in Git
